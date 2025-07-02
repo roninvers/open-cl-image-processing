@@ -49,7 +49,7 @@ open-cl-image-processing/
 
 1. Place your input image in the `input/` folder (e.g., `input/img.png`).
 2. Open and run `process_image.ipynb` in Jupyter Notebook or JupyterLab.
-3. The processed image will be saved in the `output/` folder.
+3. The processed image will be saved as the `output.png`
 
 ## Example
 
@@ -57,14 +57,8 @@ open-cl-image-processing/
 ![Input Image](input/img.png)
 
 **Output:**  
-![Processed Image](output/output.png)
+![Processed Image](output.png)
 
 ## Development History
 
 This repository includes a progressive commit history showing the step-by-step development of the project.
-
----
-
-## License
-
-[MIT License](LICENSE)
