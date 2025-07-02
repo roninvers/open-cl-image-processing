@@ -1,3 +1,5 @@
+Throughout this project, I aimed for a clear, methodical approach—starting with careful planning of the project structure and requirements. I incrementally implemented and tested each major component, from the OpenCL kernels to the Python host code, ensuring each stage worked as intended before moving to the next. Regularly reviewing and refining my code allowed me to address challenges such as memory management, kernel synchronization, and platform compatibility. By documenting my progress with meaningful commit messages and thorough comments, I ensured that the development process remained transparent and reproducible. This disciplined workflow enabled me to bring the project to a successful and robust closure.
+
 # OpenCL Image Processing Project
 
 This project demonstrates GPU-accelerated image processing using OpenCL. It applies a 3×3 Gaussian blur and logarithmic tone mapping to RGBA images.
